@@ -1,2 +1,12 @@
 checkpoints/*
 !checkpoints/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Analysis outputs
+routers.npz
+figures/*.png
